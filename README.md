@@ -1,5 +1,6 @@
 # cv-project-hotels
 # Image and preferences of the aliens:
+* It is difficult to imagine how would aliens look like as noone has ever seen them but 
 # Dataset observation:
 1. What is image captioning?
    Is the prediction of caption for a given image. Image captioning is describing images to people, generating text description to an image. It involves both CV and NLP as language models. 
