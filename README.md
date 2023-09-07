@@ -1,7 +1,7 @@
 # cv-project-hotels
 # Image and preferences of the aliens:
 * It is difficult to imagine how would aliens look like as noone has ever seen them but I have tried to generate some images of aliens with stable diffusion network. Here are some images:
-* ![Uploading image (1).png…]()
+* [image](./image (1).png)
 
 # Dataset observation:
 1. What is image captioning?
