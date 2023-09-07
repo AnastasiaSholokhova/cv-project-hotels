@@ -3,32 +3,46 @@
 * It is difficult to imagine how would aliens look like as noone has ever seen them but I have tried to generate some images of aliens with stable diffusion network. Here are some images:
 First of them shows a typical alien generated with stable diffusion - a blue one with big eyes and hair (??). That alien was supposed to be a beutiful one so the network thought it will have a colourful mask.
 <img src="./image_1.png" 
-   style="width: 200;
+   style="width: 100;
    margin-left:auto;
   margin-right:auto;
   display: block">
 Secondly, the network generated that alien:
 <img src="./image_2.png" 
-   style="width: 200;
+   style="width: 100;
    margin-left:auto;
   margin-right:auto;
   display: block">
  ..But it looked quite ugly so I tried next. That looks much better! And it is finally good. I suppose, that will be a perfect quest of the diffused hotel!
  <img src="./image_3.png" 
-   style="width: 200;
+   style="width: 100;
    margin-left:auto;
   margin-right:auto;
   display: block">
   Then I tried to generate a family of aliens who will be quests:
   <img src="./image_4.png" 
-   style="width: 200;
+   style="width: 100;
    margin-left:auto;
   margin-right:auto;
   display: block">
   They looked strange and too grotesque for typical quests.
   Next the network finally generated a perfet family of aliens. They are minimalistic, perfectly coloured and small enough to fit into every room.
   <img src="./image_5.png" 
-   style="width: 200;
+   style="width: 100;
+   margin-left:auto;
+  margin-right:auto;
+  display: block">
+   After all these expiriments I used Kandinskiy 2.2 network to observe how it can generate a family of aliens and hotel rooms.
+   Alien family:
+   <img src="./alien_family.png" 
+   style="width: 100;
+   margin-left:auto;
+  margin-right:auto;
+  display: block">
+  That family looks a way more detailed, however, it is kinda non-acceptable for a public discussion so I would rather stand for a more minimalistic pink family.
+  Hotel for aliens:
+  <img src="./room_1.png" 
+   style="width: 100;
    margin-left:auto;
   margin-right:auto;
   display: block">
