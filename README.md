@@ -46,6 +46,21 @@ Secondly, the network generated that alien:
    margin-left:auto;
   margin-right:auto;
   display: block">
+  It looks, in my opinion, absolutely perfect for aliens as it is sci-fi and perhaps reminds aliens of their home planets.
+  Next I tried to create an image of a hotel for aliens:
+  <img src="./hotel_1.png" 
+   style="width: 100;
+   margin-left:auto;
+  margin-right:auto;
+  display: block">
+  It also reminds of scientific movies and represents a lifestyle of aliens, so, I suppose, it will suit our quests.
+  Stable diffusion (online vesion) generated a worse variation:
+  <img src="./image_6.png" 
+   style="width: 100;
+   margin-left:auto;
+  margin-right:auto;
+  display: block">
+  I don't understand the reason there are some small brown houses surrounding the hotel so the first image seems to look better.
 # Dataset observation:
 1. What is image captioning?
    Is the prediction of caption for a given image. Image captioning is describing images to people, generating text description to an image. It involves both CV and NLP as language models. 
